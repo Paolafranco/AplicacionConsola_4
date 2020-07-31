@@ -1,0 +1,8 @@
+C:\Users\Pao\source\repos\Estudiantes\Estudiantes.Interface\bin\Debug\netcoreapp3.1\Estudiantes.Interface.deps.json
+C:\Users\Pao\source\repos\Estudiantes\Estudiantes.Interface\bin\Debug\netcoreapp3.1\Estudiantes.Interface.dll
+C:\Users\Pao\source\repos\Estudiantes\Estudiantes.Interface\bin\Debug\netcoreapp3.1\Estudiantes.Interface.pdb
+C:\Users\Pao\source\repos\Estudiantes\Estudiantes.Interface\obj\Debug\netcoreapp3.1\Estudiantes.Interface.AssemblyInfoInputs.cache
+C:\Users\Pao\source\repos\Estudiantes\Estudiantes.Interface\obj\Debug\netcoreapp3.1\Estudiantes.Interface.AssemblyInfo.cs
+C:\Users\Pao\source\repos\Estudiantes\Estudiantes.Interface\obj\Debug\netcoreapp3.1\Estudiantes.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Pao\source\repos\Estudiantes\Estudiantes.Interface\obj\Debug\netcoreapp3.1\Estudiantes.Interface.dll
+C:\Users\Pao\source\repos\Estudiantes\Estudiantes.Interface\obj\Debug\netcoreapp3.1\Estudiantes.Interface.pdb

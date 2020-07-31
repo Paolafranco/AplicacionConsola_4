@@ -1,0 +1,12 @@
+C:\Users\Pao\source\repos\Estudiantes\Estudiantes.Implementacion\bin\Debug\netcoreapp3.1\Estudiantes.Inplementacion.deps.json
+C:\Users\Pao\source\repos\Estudiantes\Estudiantes.Implementacion\bin\Debug\netcoreapp3.1\Estudiantes.Inplementacion.dll
+C:\Users\Pao\source\repos\Estudiantes\Estudiantes.Implementacion\bin\Debug\netcoreapp3.1\Estudiantes.Inplementacion.pdb
+C:\Users\Pao\source\repos\Estudiantes\Estudiantes.Implementacion\bin\Debug\netcoreapp3.1\Estudiantes.Interface.dll
+C:\Users\Pao\source\repos\Estudiantes\Estudiantes.Implementacion\bin\Debug\netcoreapp3.1\Estudiantes.Interface.pdb
+C:\Users\Pao\source\repos\Estudiantes\Estudiantes.Implementacion\obj\Debug\netcoreapp3.1\Estudiantes.Inplementacion.csprojAssemblyReference.cache
+C:\Users\Pao\source\repos\Estudiantes\Estudiantes.Implementacion\obj\Debug\netcoreapp3.1\Estudiantes.Inplementacion.AssemblyInfoInputs.cache
+C:\Users\Pao\source\repos\Estudiantes\Estudiantes.Implementacion\obj\Debug\netcoreapp3.1\Estudiantes.Inplementacion.AssemblyInfo.cs
+C:\Users\Pao\source\repos\Estudiantes\Estudiantes.Implementacion\obj\Debug\netcoreapp3.1\Estudiantes.Inplementacion.csproj.CoreCompileInputs.cache
+C:\Users\Pao\source\repos\Estudiantes\Estudiantes.Implementacion\obj\Debug\netcoreapp3.1\Estudiantes.Inplementacion.csproj.CopyComplete
+C:\Users\Pao\source\repos\Estudiantes\Estudiantes.Implementacion\obj\Debug\netcoreapp3.1\Estudiantes.Inplementacion.dll
+C:\Users\Pao\source\repos\Estudiantes\Estudiantes.Implementacion\obj\Debug\netcoreapp3.1\Estudiantes.Inplementacion.pdb

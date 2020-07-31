@@ -1,0 +1,357 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Pao\\source\\repos\\Estudiantes\\Estudiantes.Consola\\Estudiantes.Consola.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Pao\\source\\repos\\Estudiantes\\Estudiantes.AccesoDatos\\Estudiantes.AccesoDatos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pao\\source\\repos\\Estudiantes\\Estudiantes.AccesoDatos\\Estudiantes.AccesoDatos.csproj",
+        "projectName": "Estudiantes.AccesoDatos",
+        "projectPath": "C:\\Users\\Pao\\source\\repos\\Estudiantes\\Estudiantes.AccesoDatos\\Estudiantes.AccesoDatos.csproj",
+        "packagesPath": "C:\\Users\\Pao\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pao\\source\\repos\\Estudiantes\\Estudiantes.AccesoDatos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Pao\\source\\repos\\Estudiantes\\Estudiantes.Entidad\\Estudiantes.Entidad.csproj": {
+                "projectPath": "C:\\Users\\Pao\\source\\repos\\Estudiantes\\Estudiantes.Entidad\\Estudiantes.Entidad.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Pao\\source\\repos\\Estudiantes\\Estudiantes.Consola\\Estudiantes.Consola.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pao\\source\\repos\\Estudiantes\\Estudiantes.Consola\\Estudiantes.Consola.csproj",
+        "projectName": "Estudiantes.Consola",
+        "projectPath": "C:\\Users\\Pao\\source\\repos\\Estudiantes\\Estudiantes.Consola\\Estudiantes.Consola.csproj",
+        "packagesPath": "C:\\Users\\Pao\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pao\\source\\repos\\Estudiantes\\Estudiantes.Consola\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Pao\\source\\repos\\Estudiantes\\Estudiantes.AccesoDatos\\Estudiantes.AccesoDatos.csproj": {
+                "projectPath": "C:\\Users\\Pao\\source\\repos\\Estudiantes\\Estudiantes.AccesoDatos\\Estudiantes.AccesoDatos.csproj"
+              },
+              "C:\\Users\\Pao\\source\\repos\\Estudiantes\\Estudiantes.Entidad\\Estudiantes.Entidad.csproj": {
+                "projectPath": "C:\\Users\\Pao\\source\\repos\\Estudiantes\\Estudiantes.Entidad\\Estudiantes.Entidad.csproj"
+              },
+              "C:\\Users\\Pao\\source\\repos\\Estudiantes\\Estudiantes.Implementacion\\Estudiantes.Inplementacion.csproj": {
+                "projectPath": "C:\\Users\\Pao\\source\\repos\\Estudiantes\\Estudiantes.Implementacion\\Estudiantes.Inplementacion.csproj"
+              },
+              "C:\\Users\\Pao\\source\\repos\\Estudiantes\\Estudiantes.Interface\\Estudiantes.Interface.csproj": {
+                "projectPath": "C:\\Users\\Pao\\source\\repos\\Estudiantes\\Estudiantes.Interface\\Estudiantes.Interface.csproj"
+              },
+              "C:\\Users\\Pao\\source\\repos\\Estudiantes\\Estudiantes.Negocio\\Estudiantes.Negocio.csproj": {
+                "projectPath": "C:\\Users\\Pao\\source\\repos\\Estudiantes\\Estudiantes.Negocio\\Estudiantes.Negocio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Pao\\source\\repos\\Estudiantes\\Estudiantes.Entidad\\Estudiantes.Entidad.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pao\\source\\repos\\Estudiantes\\Estudiantes.Entidad\\Estudiantes.Entidad.csproj",
+        "projectName": "Estudiantes.Entidad",
+        "projectPath": "C:\\Users\\Pao\\source\\repos\\Estudiantes\\Estudiantes.Entidad\\Estudiantes.Entidad.csproj",
+        "packagesPath": "C:\\Users\\Pao\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pao\\source\\repos\\Estudiantes\\Estudiantes.Entidad\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Pao\\source\\repos\\Estudiantes\\Estudiantes.Implementacion\\Estudiantes.Inplementacion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pao\\source\\repos\\Estudiantes\\Estudiantes.Implementacion\\Estudiantes.Inplementacion.csproj",
+        "projectName": "Estudiantes.Inplementacion",
+        "projectPath": "C:\\Users\\Pao\\source\\repos\\Estudiantes\\Estudiantes.Implementacion\\Estudiantes.Inplementacion.csproj",
+        "packagesPath": "C:\\Users\\Pao\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pao\\source\\repos\\Estudiantes\\Estudiantes.Implementacion\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Pao\\source\\repos\\Estudiantes\\Estudiantes.Entidad\\Estudiantes.Entidad.csproj": {
+                "projectPath": "C:\\Users\\Pao\\source\\repos\\Estudiantes\\Estudiantes.Entidad\\Estudiantes.Entidad.csproj"
+              },
+              "C:\\Users\\Pao\\source\\repos\\Estudiantes\\Estudiantes.Interface\\Estudiantes.Interface.csproj": {
+                "projectPath": "C:\\Users\\Pao\\source\\repos\\Estudiantes\\Estudiantes.Interface\\Estudiantes.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Pao\\source\\repos\\Estudiantes\\Estudiantes.Interface\\Estudiantes.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pao\\source\\repos\\Estudiantes\\Estudiantes.Interface\\Estudiantes.Interface.csproj",
+        "projectName": "Estudiantes.Interface",
+        "projectPath": "C:\\Users\\Pao\\source\\repos\\Estudiantes\\Estudiantes.Interface\\Estudiantes.Interface.csproj",
+        "packagesPath": "C:\\Users\\Pao\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pao\\source\\repos\\Estudiantes\\Estudiantes.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Pao\\source\\repos\\Estudiantes\\Estudiantes.Negocio\\Estudiantes.Negocio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pao\\source\\repos\\Estudiantes\\Estudiantes.Negocio\\Estudiantes.Negocio.csproj",
+        "projectName": "Estudiantes.Negocio",
+        "projectPath": "C:\\Users\\Pao\\source\\repos\\Estudiantes\\Estudiantes.Negocio\\Estudiantes.Negocio.csproj",
+        "packagesPath": "C:\\Users\\Pao\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pao\\source\\repos\\Estudiantes\\Estudiantes.Negocio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Pao\\source\\repos\\Estudiantes\\Estudiantes.Interface\\Estudiantes.Interface.csproj": {
+                "projectPath": "C:\\Users\\Pao\\source\\repos\\Estudiantes\\Estudiantes.Interface\\Estudiantes.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
